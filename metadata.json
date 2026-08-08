@@ -1,0 +1,6 @@
+{
+  "name": "Phone Stop Alarm",
+  "description": "A productivity tool that temporarily blocks selected apps to help you stay focused, with an integrated completion alarm and highly robust blocking mechanisms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

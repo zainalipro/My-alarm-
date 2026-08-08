@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone Stop Alarm</string>
+    <string name="accessibility_service_desc">Phone Stop Alarm Accessibility Service detects when blocked distracting apps are brought to the foreground and shows the focus overlay screen to protect your time and help you stay on track.</string>
+</resources>
